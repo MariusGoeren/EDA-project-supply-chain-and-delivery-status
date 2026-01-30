@@ -48,6 +48,8 @@ The goal is not to paint the current process in a bad light, but to improve it w
 - **Statistical Methods**: Chi-square and Cramer's v tests.
 - **Data Sources**: DataCo Supply Chain Dataset found on kaggle.com.
 
+build together with @alexcardenasgutierrez-droid
+
 ## Project Structure
 - `main.ipynb`: Jupyter Notebook with the full univariate and bivariate analysis.
 - `supply_chain_eda_presentation.pdf`: PDF presentation summarizing the conclusions.
