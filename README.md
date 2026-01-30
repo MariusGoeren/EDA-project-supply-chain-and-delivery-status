@@ -1,5 +1,7 @@
 # exploring the delivery status using a supply chain dataset
 
+build together with @alexcardenasgutierrez-droid
+
 ## Table of Content
 - [Project Overview](#Project-Overview)
 - [Context & Intent](#Context-&-Intent)
@@ -47,8 +49,6 @@ The goal is not to paint the current process in a bad light, but to improve it w
 - **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn).
 - **Statistical Methods**: Chi-square and Cramer's v tests.
 - **Data Sources**: DataCo Supply Chain Dataset found on kaggle.com.
-
-build together with @alexcardenasgutierrez-droid
 
 ## Project Structure
 - `main.ipynb`: Jupyter Notebook with the full univariate and bivariate analysis.
