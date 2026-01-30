@@ -1,13 +1,20 @@
-# exploring the delivery status using asupply chain dataset
+# exploring the delivery status using a supply chain dataset
 
+## Table of Content
+- [Project Overview](#Project-Overview)
+- [Context & Intent](#Context-&-Intent)
+- [Key Features](#Key-Features)
+- [Main Insights](#Main-Insights)
+- [Tools & Techniques](#Tools-&-Techniques)
+- [Project Structure](#Project-Structure)
 
 ## Project Overview
-This project explores the relationships between **delivery status** and **markets/number of products per order**, using the public dataset [DataCo Supply Chain Dataset | kaggle.com | by Evil Spirit05](https://www.kaggle.com/datasets/evilspirit05/datasupplychain/data).
+This project explores the relationships between **delivery status** and **market/number of products per order**, using the public dataset [DataCo Supply Chain Dataset | kaggle.com | by Evil Spirit05](https://www.kaggle.com/datasets/evilspirit05/datasupplychain/data).
 The analysis focuses on understanding how factors like the destination and the number of products ordered correlate with the delivery status, which means whether the packages will be delivered late, early, on time or if the delivery was cancelled.
 
 ## Context & Intent
 This project explores relationships between the delivery status and some other factors using data analysis as a tool for visualizing and calculating the correlations and making them easier to understand.
-The goal is not to paint the current process in a bad light, but to improve it with simple measures where possible. Simply to make it easier for those involved and maybe there is a chance to reduce the amount of work required.
+The goal is not to paint the current process in a bad light, but to improve it with simple measures where possible. Just to make it easier for those involved and maybe there is a chance to reduce the amount of work required.
 
 ## Key Features
 - **Data Cleaning**:
@@ -40,9 +47,6 @@ The goal is not to paint the current process in a bad light, but to improve it w
 - **Programming Languages**: Python (Pandas, NumPy, Matplotlib, Seaborn).
 - **Statistical Methods**: Chi-square and Cramer's v tests.
 - **Data Sources**: DataCo Supply Chain Dataset found on kaggle.com.
-
-
-
 
 ## Project Structure
 - `main.ipynb`: Jupyter Notebook with the full univariate and bivariate analysis.
