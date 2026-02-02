@@ -1,6 +1,6 @@
 # exploring the delivery status using a supply chain dataset
 
-build together with @alexcardenasgutierrez-droid
+in collaboration with @alexcardenasgutierrez-droid
 
 ## Table of Content
 - [Project Overview](#Project-Overview)
